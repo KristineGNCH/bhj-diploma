@@ -1,7 +1,7 @@
 {
   "name": "bhj-diploma",
   "version": "1.0.0",
-  "description": "",
+  "description": "Нажмите на изображение, чтобы посмотреть видео и описание:",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -18,7 +18,7 @@
     "lowdb": "^1.0.0",
     "morgan": "^1.9.1",
     "multer": "^1.4.5-lts.1",
-    "nodemon": "^1.18.6",
+    "nodemon": "^1.19.4",
     "uniqid": "^5.0.3"
   },
   "devDependencies": {
